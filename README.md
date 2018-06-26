@@ -75,6 +75,8 @@ Bake して、ライノ上の線のデータにする
 組立ての様子。  
 200ピースで、5時間くらい  
 
+171125  
+
 ![photo](photo/Assemble-02.jpg)  
 
 ![photo](photo/Assemble-03.jpg)  
